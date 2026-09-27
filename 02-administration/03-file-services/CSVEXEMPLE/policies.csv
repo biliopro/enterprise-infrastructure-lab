@@ -1,0 +1,12 @@
+GPO,Category,Setting,Value,Path
+GPO-Base-Computers,Security,Firewall,Enabled,
+GPO-Base-Computers,Security,Defender,Enabled,
+GPO-Base-Computers,WindowsUpdate,AutomaticUpdates,Enabled,
+
+GPO-Base-Users,Desktop,ScreenSaverTimeout,600,
+
+GPO-RH-Users,DriveMapping,R,R,\\SERVER\RH
+GPO-IT-Users,DriveMapping,I,I,\\SERVER\IT
+GPO-Direction-Users,DriveMapping,D,D,\\SERVER\Direction
+GPO-Comptabilite-Users,DriveMapping,C,C,\\SERVER\Comptabilite
+GPO-Marketing-Users,DriveMapping,M,M,\\SERVER\Marketing

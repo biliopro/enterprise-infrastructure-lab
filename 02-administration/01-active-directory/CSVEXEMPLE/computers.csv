@@ -1,0 +1,7 @@
+ComputerName,OU,Description
+
+PC-RH-001,"OU=RH,OU=Workstations,OU=Entreprise","Poste RH"
+PC-IT-001,"OU=IT,OU=Workstations,OU=Entreprise","Poste Informatique"
+PC-DIR-001,"OU=Direction,OU=Workstations,OU=Entreprise","Poste Direction"
+PC-CPT-001,"OU=Comptabilite,OU=Workstations,OU=Entreprise","Poste Comptabilité"
+PC-MKT-001,"OU=Marketing,OU=Workstations,OU=Entreprise","Poste Marketing"

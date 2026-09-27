@@ -1,0 +1,8 @@
+FirstName,LastName,SamAccountName,Password,OU,Group
+
+Jean,Dupont,jdupont,P@ssw0rd!,"OU=RH,OU=Users,OU=Entreprise",GG_RH
+Paul,Martin,pmartin,P@ssw0rd!,"OU=IT,OU=Users,OU=Entreprise",GG_IT
+Sophie,Bernard,sbernard,P@ssw0rd!,"OU=Direction,OU=Users,OU=Entreprise",GG_Direction
+Karim,ElAmrani,kelamrani,P@ssw0rd!,"OU=Comptabilite,OU=Users,OU=Entreprise",GG_Comptabilite
+Nadia,Benali,nbenali,P@ssw0rd!,"OU=Marketing,OU=Users,OU=Entreprise",GG_Marketing
+Youssef,Alaoui,yalaoui,P@ssw0rd!,"OU=Stagiaires,OU=Users,OU=Entreprise",GG_Stagiaires

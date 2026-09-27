@@ -1,0 +1,17 @@
+Name,Type,TargetOU,Description
+
+GPO-Base-Users,User,"OU=Users,OU=Entreprise","Configuration commune à tous les utilisateurs"
+
+GPO-Base-Computers,Computer,"OU=Workstations,OU=Entreprise","Configuration commune à tous les ordinateurs"
+
+GPO-RH-Users,User,"OU=RH,OU=Users,OU=Entreprise","Configuration utilisateurs RH"
+GPO-IT-Users,User,"OU=IT,OU=Users,OU=Entreprise","Configuration utilisateurs IT"
+GPO-Direction-Users,User,"OU=Direction,OU=Users,OU=Entreprise","Configuration utilisateurs Direction"
+GPO-Comptabilite-Users,User,"OU=Comptabilite,OU=Users,OU=Entreprise","Configuration utilisateurs Comptabilité"
+GPO-Marketing-Users,User,"OU=Marketing,OU=Users,OU=Entreprise","Configuration utilisateurs Marketing"
+
+GPO-RH-Computers,Computer,"OU=RH,OU=Workstations,OU=Entreprise","Configuration postes RH"
+GPO-IT-Computers,Computer,"OU=IT,OU=Workstations,OU=Entreprise","Configuration postes IT"
+GPO-Direction-Computers,Computer,"OU=Direction,OU=Workstations,OU=Entreprise","Configuration postes Direction"
+GPO-Comptabilite-Computers,Computer,"OU=Comptabilite,OU=Workstations,OU=Entreprise","Configuration postes Comptabilité"
+GPO-Marketing-Computers,Computer,"OU=Marketing,OU=Workstations,OU=Entreprise","Configuration postes Marketing"
